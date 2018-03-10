@@ -1,1 +1,1 @@
-document.getElementById('p1') = "hello world"
+document.getElementById('p1')[0] = "hello world"
